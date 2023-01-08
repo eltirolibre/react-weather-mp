@@ -23,7 +23,7 @@ export default function App() {
             rel="noopener noreferrer"
           >
             {" "}
-            on Netflify
+            on Netlify
           </a>
           .
         </footer>
